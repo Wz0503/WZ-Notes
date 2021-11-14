@@ -23,6 +23,15 @@
 - [同步异步IO模型](?file=003-Netty/002-同步异步IO模型 "同步异步IO模型")
 - [TCP三次握手](?file=003-Netty/003-TCP三次握手 "TCP三次握手")
 - [多路复用器](?file=003-Netty/004-多路复用器 "多路复用器")
+- [Netty简单应用](?file=003-Netty/005-Netty简单应用 "Netty简单应用")
+- [TCP粘包拆包](?file=003-Netty/006-TCP粘包拆包 "TCP粘包拆包")
 
 ##### leetcode
 - [leetcode刷题1](?file=004-leetcode/001-leetcode刷题1 "leetcode刷题1")
+
+##### RabbitMQ
+- [消息队列](?file=005-RabbitMQ/001-消息队列 "消息队列")
+- [RabbitMQ各种模式](?file=005-RabbitMQ/002-RabbitMQ各种模式 "RabbitMQ各种模式")
+- [RabbitMQ完整创建方式](?file=005-RabbitMQ/003-RabbitMQ完整创建方式 "RabbitMQ完整创建方式")
+- [work模式](?file=005-RabbitMQ/004-work模式 "work模式")
+- [ttl队列过期时间](?file=005-RabbitMQ/005-ttl队列过期时间 "ttl队列过期时间")
